@@ -1,0 +1,60 @@
+// Variables
+//––––––––––––––––––––––––––––––––––––––––––––––––––
+
+// Breakpoints
+$bp-larger-than-mobile    : "min-width: 400px" !default;
+$bp-larger-than-phablet   : "min-width: 550px" !default;
+$bp-larger-than-tablet    : "min-width: 750px" !default;
+$bp-larger-than-desktop   : "min-width: 1000px" !default;
+$bp-larger-than-desktophd : "min-width: 1200px" !default;
+
+// Colors
+$light-grey: #e1e1e1 !default;
+$dark-grey: #333 !default;
+$primary-color: #33c3f0 !default;
+$secondary-color: lighten($dark-grey, 13.5%) !default;
+$border-color: #bbb !default;
+$link-color: #1eaedb !default;
+$font-color: #222 !default;
+$base-white: #f1f1f2;
+
+$base-blue: rgba(36, 123, 160, 1);
+$base-red: rgba(230, 57, 70, 1);
+
+$bg-base: $base-white;
+$base-text-color: darken($base-blue, 20%);
+
+//Background Colors
+$bgcolor1: rgba(255, 205, 178, 1);
+$bgcolor2: rgba(255, 180, 162, 1);
+$bgcolor3: rgba(229, 152, 155, 1);
+//$bgcolor1: #70c1b3; //rgba(112, 193, 179, 100)
+//$bgcolor2: #b2dbbf; //rgba(178, 219, 191, 100)
+//$bgcolor3: #f3ffbd; //rgba(243, 255, 189, 100)
+$shadow-color: darken($bgcolor3, 5%);
+$shadow-color-darker: darken($bgcolor3, 15%);
+
+// Typography
+$font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$headings-font-family: "brandon-grotesque", sans-serif;
+
+//Grid Variables
+$container-width: 960px !default;
+$container-width-larger-than-mobile: 100% !default;
+$container-width-larger-than-phablet: 80% !default;
+$total-columns: 12 !default;
+$column-width: 100 / $total-columns !default; // calculates individual column width based off of # of columns
+$column-margin: 4% !default; // space between columns
+
+// Misc
+$global-radius: 3rem !default;
+$base-padding: 4rem;
+$letter-spacing-heading: 10rem;
+
+//buttons
+$btn-height: 6rem;
+$btn-height-lg: 8rem;
+$btn-font-size: 1.2rem;
+
+$btn-padding-vertical: 2rem;
+$btn-padding-horizontal: 4rem;
