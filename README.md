@@ -21,6 +21,12 @@ This game is built to be extendable and parameters could be easily changed to sc
 
 ##### Built on
 
-JQuery: http://jquery.com
-Skeleton Framework: http://getskeleton.com
-Typekit: http://typekit.com
+###### Frameworks
+* JQuery: http://jquery.com
+* Skeleton Framework: http://getskeleton.com
+
+###### Font: Brandon Text
+* Typekit: http://typekit.com
+
+###### The Donald Icon
+* Noun Project: https://thenounproject.com
