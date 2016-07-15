@@ -94,6 +94,7 @@ $(document).ready(function() {
     var totalQns = 10;
     var buttons = $('button');
     var trivia = "";
+    var questionList = [];
 
     var questionList = [{
       question: "Donald Trump once thought flying golden toilets were a good idea.",
@@ -106,7 +107,7 @@ $(document).ready(function() {
       answer: "true",
       trivia: "trivia"
     },{
-      question: "Amongst the strangest things Donald Trump has owned is a reptile farm in Florida",
+      question: "Among the strangest things Donald Trump has owned is a reptile farm in Florida",
       options: ["true", "false"],
       answer: "false",
       trivia: "Yes,"
@@ -172,6 +173,8 @@ $(document).ready(function() {
       trivia: "trivia"
     }];
 
+
+    console.log(questionList);
 
     var game = new makeQuiz(totalQns, questionList);
 
