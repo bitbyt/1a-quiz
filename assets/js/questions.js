@@ -4,73 +4,73 @@ var questionList = [{
   answer: "true",
   trivia: "In 1989 Trump bought over Eastern Air Lines with the intention to build a luxury airline service called The Trump Shuttles. Featuring maple wood veneer, chrome seat belt latches, and gold shit holes; it is testament to his obnoxious, frat boy business acumen. Of course it tanked in 3 years, what a champ!"
 }, {
-  question: "Donald Trump attended a military academy for high school.",
+  question: "Donald Trump wants to stop Japan selling so many cars to the US.",
   options: ["true", "false"],
   answer: "true",
-  trivia: "trivia"
+  trivia: "\"We allow Japan to sell us millions of cars with zero import tax and we can't make a trade deal with them - our country is in big trouble!\" Trump trumped on his Facebook page."
 },{
-  question: "Among the strangest things Donald Trump has owned is a reptile farm in Florida",
+  question: "The Trump wanna be bffs with Vladimir Putin",
+  options: ["true", "false"],
+  answer: "true",
+  trivia: "Trump told Fox News' Bill O'Reilly: \"I would be willing to bet that I'd have a great relationship with Vladimir Putin. It's about leadership.\""
+},{
+  question: "Make every American have their birth certificate on them at all times for counter-terrorism purposes.",
   options: ["true", "false"],
   answer: "false",
-  trivia: "Yes,"
+  trivia: "Considering his views on mexicans and muslims, this foreign policy is surprisingly false!"
 },{
-  question: "The Trump wall will save all of America",
+  question: "Create a super amendment called the Trump amendment that literally trumps all other amendments.",
   options: ["true", "false"],
   answer: "false",
-  trivia: "trivia"
+  trivia: "This may not be true but it could very well be when he's elected."
 },{
-  question: "question one",
+  question: "Enforce a top secret, “foolproof” plan that will defeat Isis “quickly and effectively” but not tell anyone what it is.",
   options: ["true", "false"],
   answer: "true",
-  trivia: "trivia"
+  trivia: "\"If I run, and if I win, I don’t want the enemy to know what I’m doing. Unfortunately, I’ll probably have to tell at some point, but there is a method of defeating them quickly and effectively and having total victory.\""
 },{
-  question: "question one",
+  question: "Build the Great Wall of Frump around Mexico and make Mexico pay for it.",
   options: ["true", "false"],
   answer: "true",
-  trivia: "trivia"
+  trivia: "Trump says the wall will cost no more than $12 billion, but some experts estimate that it could require an investment of $25 billion or more, not including hefty maintenance costs."
 },{
-  question: "question one",
+  question: "Ban the national curriculum.",
   options: ["true", "false"],
   answer: "true",
-  trivia: "trivia"
+  trivia: "Trump said in an interview that the national curriculum should be replaced by local curricula. \"I think that for people in Washington to be setting curriculum and to be setting all sorts of standards for people living in Iowa and other places is ridiculous.\""
 },{
-  question: "question one",
+  question: "Ban 'perverts' from public office.",
   options: ["true", "false"],
   answer: "true",
-  trivia: "trivia"
+  trivia: "In a video message from his private jet, Trump spoke out about 'perverts' being elected to public office."
 },{
-  question: "question one",
+  question: "Ban new-born children in the US being named 'Donald'.",
+  options: ["true", "false"],
+  answer: "false",
+  trivia: "He is the Trump after all."
+},{
+  question: "Re-invade Iraq and take all its oil.",
   options: ["true", "false"],
   answer: "true",
-  trivia: "trivia"
+  trivia: "In a 2011 interview, Trump said he would authorize another invasion of Iraq to replenish funds spent in the war. \"In the old days, you know when you had a war, to the victor belong the spoils. You go in. You win the war and you take it... You’re not stealing anything. You’re taking - we’re reimbursing ourselves - at least, at a minimum\""
 },{
-  question: "question one",
+  question: "Start charging Saudi Arabia up to $1bn/day for Middle East security.",
   options: ["true", "false"],
   answer: "true",
-  trivia: "trivia"
+  trivia: "Trump said: \"I love the Saudis, many are in this building. They make a billion dollars a day. Whenever they have problems, we send over the ships. We send, we’re going to protect – what are we doing? They got nothing but money. If the right person asked them, they’d pay a fortune. They wouldn’t be there except for us.\""
 },{
-  question: "question one",
+  question: "Ban windmills.",
   options: ["true", "false"],
   answer: "true",
-  trivia: "trivia"
+  trivia: "\"Wind is destroying the environment in many, many places. People are going crazy over the horrible, noisy, disgusting windmills. And they are horrible and a horrible intrusion, ruining communities.\""
 },{
-  question: "question one",
+  question: "Fund a mission to Mars by 2020 to search for ‘Mars oil’.",
+  options: ["true", "false"],
+  answer: "false",
+  trivia: "nothing stopping him from building a wall"
+},{
+  question: "Start a trade war with China.",
   options: ["true", "false"],
   answer: "true",
-  trivia: "trivia"
-},{
-  question: "question one",
-  options: ["true", "false"],
-  answer: "true",
-  trivia: "trivia"
-},{
-  question: "question one",
-  options: ["true", "false"],
-  answer: "true",
-  trivia: "trivia"
-},{
-  question: "question one",
-  options: ["true", "false"],
-  answer: "true",
-  trivia: "trivia"
+  trivia: "\"What you do to China is you say if you don’t behave we’re going to have to start taxing your goods coming into this country. … They charge us tariffs. We don’t charge them because we’re stupid.\""
 }];
